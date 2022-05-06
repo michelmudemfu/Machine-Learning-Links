@@ -1,4 +1,6 @@
 # Machine-Learning-Links
+https://www.jonkrohn.com/courses
+https://github.com/jonkrohn/ML-foundations/
 Andrew Ng, DeepLearning.AI, & Stanford University just announced that they will be teaming up to launch the updated version of his famous Machine Learning course on Coursera. He's calling this the Machine Learning Specialization and it will be available in June 2022. Check out my LinkedIn post that has all the details here: https://www.linkedin.com/posts/gregho...
 
 Here's my favorite resources:
